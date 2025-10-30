@@ -1,16 +1,17 @@
-Red Neuronal
-Descripción
-se hace un coidgo para simular y aprender redes neuronales
+#  Red Neuronal
 
-## Requisitos e Instalación
-Python 3.8 o superior
+##  Descripción
+Se hace un código para **simular y aprender redes neuronales**, aplicando conceptos básicos de inteligencia artificial y predicción de datos.
 
-## Clonar el repositorio
--- git clone https://github.com/tu-usuario/proyecto_redes_neuronales.git
--- cd proyecto_redes_neuronales
+---
 
-# Instalar dependencias
+##  Requisitos e Instalación
+
+###  Requisitos
+- Python **3.8** o superior  
+
+###  Instalación de dependencias
+```bash
 pip install pandas numpy scikit-learn openpyxl
-## Uso Rápido
-Ejecutar el Proyecto Completo
-python red.py
+
+
